@@ -14,7 +14,7 @@ To use this, you'll need to use your console/terminal use Power Shell with Windo
 
 Please head over to [https://nodejs.org/en/download](https://nodejs.org/en/download) and follow the installation instructions.
 
-## Install Dogeoin Core 
+## Install Dogecoin Core 
 
 Dogecoin Core version v1.14.6
 ## ⚠️⚠️⚠️ Important ⚠️⚠️⚠️
@@ -28,7 +28,7 @@ txindex=1
 rpcallowip=127.0.0.1
 server=1
 ```
-## Install Dogenals
+## Install Doginals
 
 Download the repo by clicking <>code in the uper right of the GitHub and clicking Download ZIP                
 Extract the root folder to your rooot dir.
